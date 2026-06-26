@@ -1,7 +1,36 @@
-h1
-{
+.cercle {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     height: 100vh;
+}
+.cercle1 {
+    width: 70px;
+    height: 70px;
+    background-color: #ff0000;
+    border-radius: 50%;
+}
+.cercle2 {
+    width: 70px;
+    height: 70px;
+    background-color: #00ff00;
+    border-radius: 50%;
+}
+.cercle3 {
+    width: 70px;
+    height: 70px;
+    background-color: #0000ff;
+    border-radius: 50%;
+}
+.cercle4 {
+    width: 70px;
+    height: 70px;
+    background-color: #ffff00;
+    border-radius: 50%;
+}
+.cercle5 {
+    width: 70px;
+    height: 70px;
+    background-color: #ff00ff;
+    border-radius: 50%;
 }
